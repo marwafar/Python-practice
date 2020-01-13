@@ -1,6 +1,6 @@
 # Backend Challenge
 
-Implement the function `path_exists` found in `solve.py`
+Implement the function `path_exists` found in `path-exist.py`
 
 This function will be run against two inputs:
 
